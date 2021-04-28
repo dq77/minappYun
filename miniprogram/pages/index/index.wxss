@@ -1,0 +1,23 @@
+/**index.wxss**/
+
+page {
+}
+.top-view{
+  height: 160rpx;
+  background-color: #fff;
+  display: flex;
+}
+.top-view .avatar-img{
+  height: 140rpx;
+  width: 140rpx;
+  border-radius: 80rpx;
+  margin-top: 10rpx;
+}
+.top-view .nick-name{
+  font-size: 40rpx;
+  line-height: 40rpx;
+  height: 40rpx;
+  padding-top: 58rpx;
+  padding-left: 40rpx;
+}
+
